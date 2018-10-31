@@ -3,7 +3,22 @@ show commands
 git branch "newimage"
 git checkout -b [yourbranchname]
 git checkout bugFix; git merge master
+git config --global user.name "username"
+git config --global user.email "username"
+git commit
+show commands
+git branch "newimage"
+git checkout -b [yourbranchname]
+git checkout bugFix; git merge master
 
+git log
+
+git add "filename"
+git commit -m "message"
+git status
+
+
+git clone, git config, git add, git status, git commit, git push, git pull, git branch, git checkout, and git merge
 
 
 
