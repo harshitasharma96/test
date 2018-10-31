@@ -1,0 +1,10 @@
+git commit
+show commands
+git branch "newimage"
+git checkout -b [yourbranchname]
+git checkout bugFix; git merge master
+
+
+
+
+git clone, git config, git add, git status, git commit, git push, git pull, git branch, git checkout, and git merge
